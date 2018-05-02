@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Quizzle</string>
+    <string name="existing_quiz">Existing Quiz</string>
+    <string name="new_quiz">New Quiz</string>
+    <string name="add_a_question">Add a Question</string>
+    <string name="quiz_name">Quiz Name</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="done">Done</string>
+    <string name="answer_four">Answer Four</string>
+    <string name="save">Save</string>
+    <string name="answer_three">Answer Three</string>
+    <string name="answer_two">Answer Two</string>
+    <string name="answer_one">Answer One</string>
+    <string name="add_question">Add A Question</string>
+    <string name="your_score">Your Score</string>
+    <string name="high_score">High Score</string>
+    <string name="repeat_quiz">Repeat Quiz</string>
+    <string name="return_to_menu">Return to Menu</string>
+    <string name="quizzle">QUIZZLE</string>
+    <string name="add_questions">Add Questions</string>
+    <string name="start_a_quiz">Start a Quiz</string>
+    <string name="recent_quizzes">Recent Quizzes</string>
+    <string name="question">Question</string>
+    <string name="choice_A">A</string>
+    <string name="choice_B">B</string>
+    <string name="choice_C">C</string>
+    <string name="choice_D">D</string>
+    <string name="score">Score</string>
+    <string name="next_question">Next Question</string>
+    <string-array name="categories">
+        <item>Android</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>Canadian Geography</item>
+        <item>Osmosis</item>
+    </string-array>
+</resources>
